@@ -1,0 +1,6 @@
+module Pods_workreap_workreapTests {
+  umbrella header "Pods-workreap-workreapTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
